@@ -1,0 +1,11 @@
+.pink {
+    display: inline-block;
+    margin: 400px;
+    color:hotpink;
+    font-size: 48px;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}
